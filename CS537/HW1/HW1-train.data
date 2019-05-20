@@ -1,0 +1,20 @@
+3
+
+color - R G B
+
+age - Y O
+
+weight - H M L
+
+pos
+neg
+
+7
+
+trainEx1 pos R O H
+trainEx2 pos B Y L
+trainEx3 pos G Y L
+trainEx4 pos R Y H
+trainEx5 neg G O L
+trainEx6 neg G Y L
+trainEx7 neg B O H

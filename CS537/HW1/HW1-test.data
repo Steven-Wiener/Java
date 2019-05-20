@@ -1,0 +1,18 @@
+3
+
+color - R G B
+
+age - Y O
+
+weight - H M L
+
+pos
+neg
+
+5
+
+testEx1 pos B Y H
+testEx2 pos G Y L
+testEx3 neg B O L
+testEx4 neg R Y M
+testEx5 neg R O L
