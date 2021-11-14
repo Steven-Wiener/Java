@@ -1,9 +1,10 @@
 # Java
+![Java Logo](https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg)
 
 ## Folders:
 
-MATC: Random programs written in Computer Science course before transfer to UW Madison
+Java Utilities - MATC Archive: Random programs written in Computer Science course before transfer to UW Madison
 
-CS367: Data Structures
+CS367 - Data Structures (Spring 2014)
 
-CS540: Artificial IntelligenceC
+CS537 - Artificial Intelligence (Fall 2016)

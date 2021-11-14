@@ -1,0 +1,55 @@
+?
+s
+l
+d
+n
+p
+j 10
+x
+a 
+i
+c
+r
+a all
+n
+d
+j -1
+a  is well
+n
+d
+s sample.txt
+c
+j 7
+r G
+n
+r O
+n
+x
+i O
+n
+x
+i D
+n
+d
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+d
+l sample.txt
+d
+i A34B
+a 99
+i x
+r ABC
+x X
+x
+d
+q

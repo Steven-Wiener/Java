@@ -1,0 +1,1104 @@
+enter command (? for help)> ?
+s (save)    l (load)       d (display)
+n (next)    p (previous)   j (jump)
+x (delete)  a (add after)  i (insert before)
+c (context) r (replace)    q (quit)
+enter command (? for help)> s
+invalid command
+enter command (? for help)> l
+invalid command
+enter command (? for help)> d
+no messages
+enter command (? for help)> n
+no messages
+enter command (? for help)> p
+no messages
+enter command (? for help)> j 10
+no messages
+enter command (? for help)> x
+no messages
+enter command (? for help)> a 
+invalid command
+enter command (? for help)> i
+invalid command
+enter command (? for help)> c
+no messages
+enter command (? for help)> r
+invalid command
+enter command (? for help)> a all
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> n
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> d
+
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+enter command (? for help)> j -1
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> a  is well
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> n
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> d
+
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ X   X
+ X   X
+ X   X
+ X   X
+ X X X
+ XX XX
+ X   X
+
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+enter command (? for help)> s sample.txt
+enter command (? for help)> c
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> j 7
+     
+     
+     
+     
+     
+     
+     
+**********
+ X   X
+ X   X
+ X   X
+ X   X
+ X X X
+ XX XX
+ X   X
+**********
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+enter command (? for help)> r G
+     
+     
+     
+     
+     
+     
+     
+**********
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+**********
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+enter command (? for help)> n
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+**********
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> r O
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> n
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> x
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> i O
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> n
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> x
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> i D
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> n
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> d
+
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+
+     
+     
+     
+     
+     
+     
+     
+
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+     
+     
+     
+     
+     
+     
+     
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+     
+     
+     
+     
+     
+     
+     
+**********
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+**********
+     
+     
+     
+     
+     
+     
+     
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+     
+     
+     
+     
+     
+     
+     
+**********
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+  XXX 
+ X   X
+ X
+ X
+ X XXX
+ X   X
+  XXX
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+enter command (? for help)> x
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+enter command (? for help)> x
+**********
+  XXX 
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+  XXX
+**********
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+enter command (? for help)> x
+**********
+ XXXX
+ X   X
+ X   X
+ X   X
+ X   X
+ X   X
+ XXXX
+**********
+enter command (? for help)> x
+no messages
+enter command (? for help)> d
+no messages
+enter command (? for help)> l sample.txt
+enter command (? for help)> d
+
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ X   X
+ X   X
+ X   X
+ X   X
+ X X X
+ XX XX
+ X   X
+
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+enter command (? for help)> i A34B
+An unrecognized character has been entered.
+enter command (? for help)> a 99
+An unrecognized character has been entered.
+enter command (? for help)> i x
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+ X   X
+ X   X
+  X X
+   X
+  X X
+ X   X
+ X   X
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+enter command (? for help)> r ABC
+invalid command
+enter command (? for help)> x X
+invalid command
+enter command (? for help)> x
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+**********
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+**********
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+enter command (? for help)> d
+
+  XXX 
+ X   X
+ X   X
+ XXXXX
+ X   X
+ X   X
+ X   X
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ XXXXX
+   X
+   X
+   X
+   X
+   X
+ XXXXX
+
+  XXX 
+ X   X
+ X   
+  XXX
+     X
+ X   X
+  XXX
+
+     
+     
+     
+     
+     
+     
+     
+
+ X   X
+ X   X
+ X   X
+ X   X
+ X X X
+ XX XX
+ X   X
+
+ XXXXX
+ X
+ X
+ XXXX
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+ X
+ X
+ X
+ X
+ X
+ X
+ XXXXX
+
+enter command (? for help)> q
+quit
